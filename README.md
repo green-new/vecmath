@@ -1,2 +1,4 @@
 # vector math library
-Uses a lot of C elements
+Vec3, vec4, mat4
+Simple translation
+Typecasting, operator overloads
